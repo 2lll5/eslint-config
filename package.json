@@ -6,6 +6,13 @@
   "author": "FlandreDaisuki <vbnm123c+github@gmail.com> (https://github.com/FlandreDaisuki/)",
   "license": "MIT",
   "homepage": "https://github.com/FlandreDaisuki/eslint-config",
+  "bugs": {
+    "url": "https://github.com/FlandreDaisuki/eslint-config/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FlandreDaisuki/eslint-config.git"
+  },
   "keywords": [
     "eslint-config"
   ],
